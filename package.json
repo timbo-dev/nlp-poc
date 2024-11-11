@@ -8,5 +8,9 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "fast-levenshtein": "^3.0.0",
+    "node-nlp": "^4.27.0"
+  }
 }
